@@ -19,3 +19,5 @@ To be pushed
 
 
 Chuj CI na imie!
+
+Ja jebie!
