@@ -23,3 +23,6 @@ Chuj CI na imie!
 Ja jebie!
 
 Ja chuja tutaj inaczej jest!
+
+
+Uo do chuja!
