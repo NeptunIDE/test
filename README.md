@@ -26,3 +26,5 @@ Ja chuja tutaj inaczej jest!
 
 
 Uo do chuja!
+
+Zapisuje zmianę i pcham ją dalej!
